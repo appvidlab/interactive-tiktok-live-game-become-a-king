@@ -2,8 +2,7 @@
 
 Give your viewers a chance to become kings!
 
-https://github.com/wasento/interactive-tiktok-live-game-become-a-king/assets/134353534/936a0f4a-93bc-4ce0-aa99-81f1fe0b50a7
-
+https://github.com/wasento/interactive-tiktok-live-game-become-a-king/assets/134353534/51b0e8dc-8859-4069-8328-4dcc1e544cb0
 
 # Rules of the game
 
